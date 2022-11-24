@@ -5,9 +5,10 @@
       <map>
         <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/activity_container.xml" value="0.18958333333333333" />
         <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
-        <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/fragment_add.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/fragment_add.xml" value="0.21" />
         <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/fragment_edit.xml" value="0.17447916666666666" />
-        <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/fragment_main.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/fragment_main.xml" value="0.22" />
+        <entry key="..\:/Users/a748524/AndroidStudioProjects/AndroidPOC/NoteBookApp/app/src/main/res/layout/list_item_notebook.xml" value="0.25" />
       </map>
     </option>
   </component>

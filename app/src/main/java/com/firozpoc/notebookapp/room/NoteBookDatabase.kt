@@ -6,7 +6,7 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import com.firozpoc.notebookapp.model.NoteBook
 
-@Database(entities = arrayOf(NoteBook::class), version = 1, exportSchema = false)
+@Database(entities = [NoteBook::class], version = 1, exportSchema = false)
 abstract class NoteBookDatabase : RoomDatabase() {
 
     companion object {
